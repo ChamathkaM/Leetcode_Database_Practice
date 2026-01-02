@@ -1,1 +1,1 @@
-Practicing Database Related Questions on LeetCode
+Practicing Database Related Questions on LeetCode.
