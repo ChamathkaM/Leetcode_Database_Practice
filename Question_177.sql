@@ -1,4 +1,4 @@
-CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
+CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT--high salary
 BEGIN
   RETURN (
       select salary
