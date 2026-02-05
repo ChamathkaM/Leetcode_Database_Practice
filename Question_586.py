@@ -4,6 +4,6 @@ with cte_num_of_orders as
 from Orders
 group by customer_number)
 
-
+#
 select customer_number from cte_num_of_orders 
 where num_of_orders=(select max(num_of_orders) from cte_num_of_orders) 
