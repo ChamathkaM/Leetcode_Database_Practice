@@ -1,3 +1,4 @@
+
 SELECT *
 FROM cinema c
 WHERE c.id % 2 =1 
