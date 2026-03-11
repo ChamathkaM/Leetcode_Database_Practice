@@ -1,4 +1,4 @@
--- Write your MySQL query statement below
+-- Write your MySQL query statement below.
 
 SELECT MAX(num) as num
 FROM mynumbers n
