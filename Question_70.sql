@@ -1,1 +1,1 @@
-#solution for climbing stairs
+--solution for climbing stairs
