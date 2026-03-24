@@ -8,6 +8,3 @@ class Solution(object):
             prev2 = prev
             prev = curi
         return prev 
-
-
-        
