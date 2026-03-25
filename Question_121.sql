@@ -1,5 +1,5 @@
 --solution for Best Time to Buy and Sell Stock.
-..
+
 class Solution:
     def maxProfit(self, prices):
         buy = prices[0]
