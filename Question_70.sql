@@ -1,4 +1,4 @@
---solution for climbing stairs..
+--solution for climbing stairs
 class Solution(object):
     def climbStairs(self, n):
         prev = 1
