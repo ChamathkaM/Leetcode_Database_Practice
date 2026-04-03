@@ -10,3 +10,5 @@ class Solution:
             elif prices[i] - buy > profit:
                 profit = prices[i] - buy
         return profit
+
+
