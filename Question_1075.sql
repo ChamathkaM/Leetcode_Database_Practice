@@ -1,4 +1,4 @@
---solution for Project Employees I
+--solution for Project Employees I question
 
 SELECT p.project_id, ROUND(AVG(e.experience_years),2) AS average_years
 FROM Project p 
