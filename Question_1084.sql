@@ -1,5 +1,5 @@
 #first solution for question sales analysis III
-select distinct p.product_id, p.product_name
+select distinct p.product_id, p.product_name ###
 from Product p,  
 Sales s
 where p.product_id=s.product_id
