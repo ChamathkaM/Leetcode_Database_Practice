@@ -12,7 +12,7 @@ where Sale_date not between '2019-01-01' and '2019-03-31')
 with cte as
 (select product_id from Sales
 where Sale_date not between '2019-01-01' and '2019-03-31')
-
+----
 select distinct p.product_id, p.product_name
 from Product p,  
 Sales s
